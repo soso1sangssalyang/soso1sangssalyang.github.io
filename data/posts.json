@@ -6,5 +6,34 @@
     "thumbnail": "assets/thumb-korean-alcohol-names.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=I2xeXjPgEz8",
     "products": []
+  },
+  {
+    "id": "original-uses-of-everyday-items",
+    "title": "매일 쓰던 물건들의 충격적인 원래 용도 5",
+    "date": "2026-10-25",
+    "youtube_url": "https://www.youtube.com/@ssalyang_gukbab",
+    "products": [
+      {
+        "name": "뽁순이 3중 뽁뽁이 단열에어캡",
+        "url": "https://link.coupang.com/a/h6XllgQKwS",
+        "note": "원래 벽지였던 뽁뽁이, 지금은 겨울 창문 단열템 (기본형·로켓배송)"
+      },
+      {
+        "name": "탐사 6중 단열뽁뽁이 에어캡 무지",
+        "url": "https://link.coupang.com/a/h6XlljsE8G",
+        "note": "국내생산 6중 구성, 두툼한 타입 (로켓배송)"
+      },
+      {
+        "name": "뽁순이 물없이 붙이는 더블 단열뽁뽁이",
+        "url": "https://link.coupang.com/a/h6Xllo6NI4",
+        "note": "물 없이 붙이는 부착형 (로켓배송)"
+      },
+      {
+        "name": "리스테린 토탈케어 마일드 1000ml 3개",
+        "url": "https://link.coupang.com/a/h6XllvnOBo",
+        "note": "수술용 소독약에서 시작한 그 가글, 대용량"
+      }
+    ],
+    "thumbnail": "assets/thumb-original-uses-of-everyday-items.jpg"
   }
 ]
