@@ -35,5 +35,39 @@
       }
     ],
     "thumbnail": "assets/thumb-original-uses-of-everyday-items.jpg"
+  },
+  {
+    "id": "window-condensation",
+    "title": "겨울 창문 결로, 원인부터 해결템까지",
+    "date": "2026-10-25",
+    "youtube_url": "",
+    "products": [
+      {
+        "name": "스코라 물흡수 결로 곰팡이방지 테이프 5cm x 5m",
+        "url": "https://link.coupang.com/a/h6Z8swv8q4",
+        "note": "창틀에 고이는 물 흡수 · 가장 저렴한 첫 단계 (로켓배송)"
+      },
+      {
+        "name": "아이리버 디지털 미니 온습도계 ITH-100",
+        "url": "https://link.coupang.com/a/h6Z8sAzedE",
+        "note": "습도 40~60% 확인하고 환기 타이밍 잡기 (로켓배송)"
+      },
+      {
+        "name": "뽁순이 3중 뽁뽁이 단열에어캡",
+        "url": "https://link.coupang.com/a/h6Z8sFQ3Ii",
+        "note": "유리를 덜 차갑게, 공사 없이 결로 원인 줄이기 (로켓배송)"
+      },
+      {
+        "name": "HULULU 무선 전동 물기 흡입 스퀴지",
+        "url": "https://link.coupang.com/a/h6Z8sKV9C8",
+        "note": "이미 맺힌 물방울 흡입 · 결로 심한 집 (로켓배송)"
+      },
+      {
+        "name": "월드크린 원터치 스텐 스퀴지 45cm",
+        "url": "https://link.coupang.com/a/h6Z8sOX3Tg",
+        "note": "손으로 쓰는 저렴한 물기 제거 대안 (로켓배송)"
+      }
+    ],
+    "thumbnail": "assets/thumb-window-condensation.jpg"
   }
 ]
