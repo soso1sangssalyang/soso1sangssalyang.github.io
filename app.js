@@ -2,7 +2,7 @@
   var list=document.getElementById('post-list');
   var disc=document.getElementById('disclosure');
   function el(tag,cls,text){var e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e;}
-  function safeUrl(u){try{var x=new URL(u,location.href);return (x.protocol==='https:'||x.protocol==='http:')?x.href:null;}catch(e){return null;}}
+  function safeUrl(u){if(!u)return null;try{var x=new URL(u,location.href);return (x.protocol==='https:'||x.protocol==='http:')?x.href:null;}catch(e){return null;}}
   fetch('data/posts.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(posts){
     list.textContent='';
     if(!Array.isArray(posts)||!posts.length){list.appendChild(el('p','muted','곧 추천템이 올라와요!'));return;}
