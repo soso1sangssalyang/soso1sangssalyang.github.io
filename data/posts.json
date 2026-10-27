@@ -1,5 +1,34 @@
 [
   {
+    "id": "korean-company-names",
+    "title": "한국 대기업 이름의 충격적인 비밀",
+    "date": "2026-10-28",
+    "youtube_url": "https://www.youtube.com/watch?v=oKPbAtQ7g5o",
+    "products": [
+      {
+        "name": "불닭볶음면 큰컵 105g, 10개",
+        "url": "https://link.coupang.com/a/ia7Oyiu19h",
+        "note": "삼양 이야기 속 그 라면 (로켓배송)"
+      },
+      {
+        "name": "불닭큰컵 4종 (불닭+까르보+치즈+로제) 12개",
+        "url": "https://link.coupang.com/a/ia7Oyn2MlE",
+        "note": "맛별로 골라 먹는 세트 (로켓배송)"
+      },
+      {
+        "name": "동원 라이트스탠다드 참치 135g 5입 + 고추참치 135g 5입",
+        "url": "https://link.coupang.com/a/ia7Oyr4GBM",
+        "note": "동원 이야기, 기본+고추 반반 (로켓배송)"
+      },
+      {
+        "name": "동원 라이트 스탠다드 참치 100g, 10개",
+        "url": "https://link.coupang.com/a/ia7OyFVvxI",
+        "note": "소용량 비축용"
+      }
+    ],
+    "thumbnail": "assets/thumb-korean-company-names.jpg"
+  },
+  {
     "id": "hululu-squeegee",
     "title": "결로 닦은 걸레, 그 물 다시 창문에 — 흡입 스퀴지",
     "date": "2026-10-27",
