@@ -1,5 +1,29 @@
 [
   {
+    "id": "korean-invented-foods",
+    "title": "외국 음식인 줄 알았죠? 사실 한국이 원조인 음식",
+    "date": "2026-10-30",
+    "youtube_url": "https://www.youtube.com/watch?v=V6wWenelTI4",
+    "products": [
+      {
+        "name": "모카 골드 마일드 커피믹스 220개입",
+        "url": "https://link.coupang.com/a/icMUIWSSES",
+        "note": "영상 속 그 스틱 커피믹스, 220개"
+      },
+      {
+        "name": "골드 마일드 커피믹스 330개입",
+        "url": "https://link.coupang.com/a/icMUIZUG3U",
+        "note": "로켓배송 대용량 330개"
+      },
+      {
+        "name": "모카골드 마일드 210T x2 (420개)",
+        "url": "https://link.coupang.com/a/icMUI4pOLI",
+        "note": "사무실 비축용 420개"
+      }
+    ],
+    "thumbnail": "assets/thumb-korean-invented-foods.jpg"
+  },
+  {
     "id": "korean-company-names",
     "title": "한국 대기업 이름의 충격적인 비밀",
     "date": "2026-10-28",
