@@ -1,5 +1,29 @@
 [
   {
+    "id": "foreign-brands-thought-korean",
+    "title": "한국 브랜드인 줄 알았는데 외국 브랜드 (2026년 10월 기준)",
+    "date": "2026-10-31",
+    "youtube_url": "https://www.youtube.com/watch?v=kEkJFQn-_bI",
+    "products": [
+      {
+        "name": "우리차 얼그레이 밀크티 15개입 x2",
+        "url": "https://link.coupang.com/a/icMUIJJyEe",
+        "note": "타 먹는 분말 스틱 30개, 가장 저렴한 입문용"
+      },
+      {
+        "name": "틸리셔스 자스민그린 밀크티 500ml",
+        "url": "https://link.coupang.com/a/icMUIPqBjw",
+        "note": "따서 바로 마시는 병 밀크티, 맛보기용"
+      },
+      {
+        "name": "미스터브라운 클래식 밀크티 580ml x12",
+        "url": "https://link.coupang.com/a/icMUIUcf5o",
+        "note": "대용량 12병 비축용"
+      }
+    ],
+    "thumbnail": "assets/thumb-foreign-brands-thought-korean.jpg"
+  },
+  {
     "id": "korean-invented-foods",
     "title": "외국 음식인 줄 알았죠? 사실 한국이 원조인 음식",
     "date": "2026-10-30",
