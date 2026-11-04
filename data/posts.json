@@ -1,5 +1,29 @@
 [
   {
+    "id": "samsung-family-names",
+    "title": "삼성가 이름의 비밀",
+    "date": "2026-11-06",
+    "youtube_url": "https://www.youtube.com/watch?v=QHeGDoeLxfU",
+    "products": [
+      {
+        "name": "호암자전 (이병철 회장 자서전)",
+        "url": "https://link.coupang.com/a/imJSEQbsjY",
+        "note": "삼성 창업자 이병철 회장이 직접 쓴 자서전"
+      },
+      {
+        "name": "2024 하루 한장 급수 한자",
+        "url": "https://link.coupang.com/a/imJSFpNxYW",
+        "note": "희·재·호 한자 풀이가 재밌었다면 하루 한 장 한자 연습"
+      },
+      {
+        "name": "만화로 끝내는 급수 한자 암기왕 5급",
+        "url": "https://link.coupang.com/a/imJSFu3G3g",
+        "note": "만화로 부수와 뜻을 익히는 한자 학습서"
+      }
+    ],
+    "thumbnail": "assets/thumb-samsung-family-names.jpg"
+  },
+  {
     "id": "foreign-brands-thought-korean",
     "title": "한국 브랜드인 줄 알았는데 외국 브랜드 (2026년 10월 기준)",
     "date": "2026-10-31",
