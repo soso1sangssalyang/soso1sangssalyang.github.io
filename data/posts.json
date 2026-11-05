@@ -1,5 +1,29 @@
 [
   {
+    "id": "korean-school-names",
+    "title": "학교 이름의 비밀",
+    "date": "2026-11-07",
+    "youtube_url": "https://www.youtube.com/watch?v=mnTBa4iDxfg",
+    "products": [
+      {
+        "name": "지명발견록: 우리 땅 이름의 숨겨진 이야기",
+        "url": "https://link.coupang.com/a/ip39khEYzQ",
+        "note": "우리 땅 이름에 숨은 이야기"
+      },
+      {
+        "name": "기탄 급수 한자 5급 빨리 따기",
+        "url": "https://link.coupang.com/a/ip39knjR24",
+        "note": "이름 속 한자 뜻 공부"
+      },
+      {
+        "name": "만화로 끝내는 급수 한자 암기왕 5급",
+        "url": "https://link.coupang.com/a/ip39ksSpgq",
+        "note": "만화로 배우는 한자"
+      }
+    ],
+    "thumbnail": "assets/thumb-korean-school-names.jpg"
+  },
+  {
     "id": "samsung-family-names",
     "title": "삼성가 이름의 비밀",
     "date": "2026-11-06",
