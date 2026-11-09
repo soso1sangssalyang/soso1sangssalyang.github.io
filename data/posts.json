@@ -1,5 +1,29 @@
 [
   {
+    "id": "gukbap-bangeo",
+    "title": "제주 생선인 줄 알았던 방어, 강원 고성에서 제일 많이 잡혀요",
+    "date": "2026-11-12",
+    "youtube_url": "",
+    "products": [
+      {
+        "name": "삼광 생와사비 999",
+        "url": "https://link.coupang.com/a/ixLv8AofE4",
+        "note": "집에서 방어회 즐길 때 쓰는 생와사비"
+      },
+      {
+        "name": "이엔푸드 회전용 간장소스",
+        "url": "https://link.coupang.com/a/ixLv8UhrCm",
+        "note": "회에 곁들이는 회전용 간장소스"
+      },
+      {
+        "name": "[로켓프레시] 고래미 키자미 와사비 100g × 4개",
+        "url": "https://link.coupang.com/a/ixLv9bwurs",
+        "note": "키자미 와사비 대용량"
+      }
+    ],
+    "thumbnail": "assets/thumb-gukbap-bangeo.jpg"
+  },
+  {
     "id": "ssalyang-bubble-test",
     "title": "두쫀쿠 반년 천하? 피스타치오 수입이 92.6% 줄었어요",
     "date": "2026-11-11",
