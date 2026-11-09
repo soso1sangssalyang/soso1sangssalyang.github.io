@@ -1,5 +1,29 @@
 [
   {
+    "id": "ssalyang-bubble-test",
+    "title": "두쫀쿠 반년 천하? 피스타치오 수입이 92.6% 줄었어요",
+    "date": "2026-11-11",
+    "youtube_url": "",
+    "products": [
+      {
+        "name": "바른곳간 피스타치오 스프레드 스무스 300g",
+        "url": "https://link.coupang.com/a/ixGQQdL3W8",
+        "note": "두쫀쿠·피스타치오 디저트 만들기용 스프레드"
+      },
+      {
+        "name": "원스쿱 피스타치오 카다이프 스프레드 56% 450g",
+        "url": "https://link.coupang.com/a/ixGQQiEsqi",
+        "note": "두쫀쿠 만들기 재료 카다이프 스프레드"
+      },
+      {
+        "name": "오넛티 피스타치오 오리지널",
+        "url": "https://link.coupang.com/a/ixGQQolHSm",
+        "note": "피스타치오·마카다미아 스프레드"
+      }
+    ],
+    "thumbnail": "assets/thumb-ssalyang-bubble-test.jpg"
+  },
+  {
     "id": "hangul-foreign-brands",
     "title": "한글인데 한국어가 아닌 간판?! 외국 브랜드가 한글을 쓰는 진짜 이유",
     "date": "2026-11-10",
