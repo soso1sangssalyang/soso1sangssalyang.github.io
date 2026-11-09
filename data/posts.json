@@ -1,5 +1,29 @@
 [
   {
+    "id": "gukbap-smartglasses",
+    "title": "첨단 스마트안경 커닝, 안경테 만지는 손버릇에 걸렸대요",
+    "date": "2026-11-14",
+    "youtube_url": "",
+    "products": [
+      {
+        "name": "하이쉬 무소음 뽀모도로 타이머 공부 시계 (화이트)",
+        "url": "https://link.coupang.com/a/ixU87wcvOm",
+        "note": "시험 기간 공부 집중용 뽀모도로 타이머"
+      },
+      {
+        "name": "Gaayou 김서림방지 안경 클렌징 티슈 200매 개별포장",
+        "url": "https://link.coupang.com/a/ixU87zP5e8",
+        "note": "국밥 김 서림 방지 안경 티슈"
+      },
+      {
+        "name": "칼자이스 렌즈 와이프 클리너",
+        "url": "https://link.coupang.com/a/ixU87Kqznw",
+        "note": "렌즈 관리용 와이프"
+      }
+    ],
+    "thumbnail": "assets/thumb-gukbap-smartglasses.jpg"
+  },
+  {
     "id": "gukbap-chipflation",
     "title": "인공지능 안 써도 인공지능 값은 내고 있대요 — 칩플레이션",
     "date": "2026-11-13",
