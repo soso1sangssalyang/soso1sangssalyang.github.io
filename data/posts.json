@@ -120,6 +120,30 @@
     "thumbnail": "assets/thumb-hangul-foreign-brands.jpg"
   },
   {
+    "id": "crazy-bets-companies",
+    "title": "망하기 직전, 사장님들이 건 운명의 한 방",
+    "date": "2026-11-10",
+    "youtube_url": "https://www.youtube.com/watch?v=ohMc7WovqZQ",
+    "products": [
+      {
+        "name": "규칙 없음 - 넷플릭스 지구상 가장 빠르고 유연한 기업의 비밀",
+        "url": "https://link.coupang.com/a/iym0cCLXO0",
+        "note": "리드 헤이스팅스가 직접 쓴 넷플릭스 이야기"
+      },
+      {
+        "name": "왜 테슬라인가 + 규칙 없음 세트",
+        "url": "https://link.coupang.com/a/iym0cIXVqm",
+        "note": "테슬라·넷플릭스 두 회사를 한 번에"
+      },
+      {
+        "name": "레고 11027 클래식 네온빛 조립 놀이",
+        "url": "https://link.coupang.com/a/iym0cPz1JQ",
+        "note": "부품 정리로 부활한 레고의 기본 클래식 브릭"
+      }
+    ],
+    "thumbnail": "assets/thumb-crazy-bets-companies.jpg"
+  },
+  {
     "id": "korean-school-names",
     "title": "학교 이름의 비밀",
     "date": "2026-11-07",
